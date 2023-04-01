@@ -1,0 +1,286 @@
+main{
+    position: absolute;
+    background-color: aqua;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 800px;
+    height: 945px;
+    margin: auto;
+}
+.bloque1{
+    position: absolute;
+    background-color: rgba(202,188,153,255);
+    width: 400px;
+    height: 945px;
+    top: 0;
+}
+.kaja1{
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    border: 2px solid black;
+    height: 472px;
+    width: 190px;
+}
+.imagen1{
+    position: absolute;
+    top: 7px;
+    
+}
+.textoluto{
+    position: absolute;
+    top: 155px;
+    font-size: 12px;
+    text-align: center;
+}
+.te11{
+    position: absolute;
+    top: 130px;
+    left: 50px;
+}
+.te12{
+    position: absolute;
+    top: 160px;
+    left: 15px;
+}
+.te13{
+    position: absolute;
+    top: 190px;
+    left: 70px;
+}
+.te15{
+    position:absolute ;
+    top: 180px;
+    left: 35px;
+}
+.te14{
+    position: absolute;
+    top: 220px;
+    left: 40px;
+}
+.te16{
+    position: absolute;
+    top: 230px;
+    left: 30px;
+}
+.bloque2{
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    border: 2px solid black;
+    height: 472px;
+    width: 190px;
+}
+.p1{
+    position: absolute;
+    font-size: 15px;
+}
+.texto1{
+    position: absolute;
+    border: 3px dashed black;
+    width: 185px;
+    height: 100px;
+}
+.grand{
+    position: absolute;
+    left: 11px;
+    top: -13px;
+    font-size: 19px;
+}
+.tans{
+    position: absolute;
+    left: 65px;
+    top: 22px;
+    font-size: 20px;
+}
+.one{
+    position: absolute;
+    top: 20px;
+    width: 90px;
+    height: 50px;
+    left: 40px;
+    text-align: center;
+
+}
+.num1{
+    position: absolute;
+    font-size: 35px;
+    top: 35px;
+    left: 8px;
+}
+.num2{
+    position: absolute;
+    font-size: 35px;
+    top: 35px;
+    right: 15px;
+}
+.signo{
+    position: absolute;
+    font-size: 25px;
+    top: 25px;
+    right: 2px;
+}
+.texf{
+    position: absolute;
+    font-size: 15px;
+    left: 4px;
+    top: 54px;
+}
+.tex3{
+    position: absolute;
+    left: 40px;
+    top: 68px;
+}
+.best{
+    position: absolute;
+    top: 340px;
+    left: 25px;
+    text-align: center;
+    font-size: 15px;
+    
+    height: 50px;
+    width: 130px;
+}
+.list{
+    position: absolute;
+    top: 380px;
+    font-size: 11px;
+
+}
+.numeros{
+    position: absolute;
+    top: 440px;
+    font-size: 30px;
+}
+.num{
+    position: absolute;
+    top: 452px;
+    right: 10px;
+    font-size: 15px;
+}
+.bloque3{
+    position: absolute;
+    bottom: 0;
+    right: 5px;
+    border: 2px solid black;
+    height: 455px;
+    width: 386px;
+}
+.wanted{
+    position: absolute;
+    font-size: 60px;
+    left: 50px;
+
+}
+.wan1{
+    position: absolute;
+    top: 40px;
+    left: 80px;
+}
+.wan2{
+    position: absolute;
+    top: 60px;
+    left: 30px;
+}
+.caja1{
+    position: absolute;
+    width: 170px;
+    height: 130px;
+    margin-left: 20px;
+    margin-top: 110px;
+    font-size: 12px;
+}
+.caja2{
+    position: absolute;
+    width: 170px;
+    height: 130px;
+    margin-left: 200px;
+    margin-top: 110px;
+    font-size: 12px;
+}
+.vote{
+    position: relative;
+    top: 240px;
+    left: 130px;
+}
+.caja3{
+    position: absolute;
+    top: 135px;
+    left: 30px;
+    width: 115px;
+    height: 140px;
+}
+.caja4{
+    position: absolute;
+    width: 100px;
+    height: 140px;
+    left: -180px;
+    top:135px;
+}
+.caja5{
+    position: absolute;
+    width: 300px;
+    height: 40px;
+    left: -150px;
+    top: 280px;
+    font-size: 13px;
+}
+.cajax1{
+    position: absolute;
+    width: 400px;
+    height: 945px;
+    right: 0;
+    background-color: rgba(202,188,153,255);
+}
+.cajax2{
+    position: absolute;
+    width: 190px;
+    height: 680px;
+    top: 5px;
+    right: 5px;
+    border: 2px solid black;
+
+}
+.cajax3{
+    position: absolute;
+    width: 190px;
+    height: 680px;
+    top: 5px;
+    left: 5px;
+    border: 2px solid black;
+
+}
+.text1{
+    position: absolute;
+    top: 48px;
+}
+.text2{
+    position: absolute;
+    top: 200px;
+}
+.text3{
+    position: absolute;
+    bottom: 10px;
+    left: -15px;
+}
+.cajax4{
+    position: absolute;
+    width: 386px;
+    left: 5px;
+    height: 245px;
+    bottom: 0;
+    border: 2px solid black;
+}
+.text6{
+    position: absolute;
+    top: 140px;
+    left: -20px;
+}
+.text7{
+    position: absolute;
+    right: 0;
+    top: 205px;
+    width: 180px;
+}
